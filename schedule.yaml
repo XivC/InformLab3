@@ -1,0 +1,38 @@
+schedule:
+  tuesday:
+    any:
+      basic_math:
+        start_time: "11:40"
+        end_time: "13:10"
+        address: "Кронверкский пр., д.49, лит.А"
+        auditrium: "427"
+        lecture: "Pавшан Назаров"
+        type: "Практика"
+        format: "Очно - дистанционный"        
+      physics:
+        start_time: "15:20"
+        end_time: "16:50"
+        address: "Биржевая линия, д.16, лит.А"
+        auditrium: "550"
+        lecture: "Смирнов Александр Витальевич"
+        type: "Лекция"
+        format: "Очно - дистанционный"      
+    even:
+      physics:
+        start_time: "17:00"
+        end_time: "18:30"
+        address: "Биржевая линия, д.16, лит.А"
+        auditrium: "535"
+        lecture: "Смирнов Александр Витальевич"
+        type: "Практика"
+        format: "Очно - дистанционный"      
+    odd:
+      physics:
+        start_time: "17:00"
+        end_time: "18:30"
+        address: "Биржевая линия, д.16, лит.А"
+        auditrium: "535"
+        lecture: "Смирнов Александр Витальевич"
+        type: "Практика"
+        format: "Очно - дистанционный"      
+
